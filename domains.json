@@ -11,6 +11,7 @@
     "https://api.videasy.to/mb-flix/sources-with-title"
   ],
   "purstream": [
-    "purstream.ch"
+    "purstream.ch",
+    "purstream.ac"
   ]
 }
