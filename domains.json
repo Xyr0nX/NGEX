@@ -9,8 +9,8 @@
     "https://api.videasy.to/cdn/sources-with-title",
     "https://api.videasy.to/mb-flix/sources-with-title"
   ],
-  "purstream": "ch"
-  ],
+  "purstream": "ch",
   "dahmermovies": [
     "https://a.111477.xyz"
+  ]
 }
