@@ -3,8 +3,7 @@
     "https://kisskh.nl"
   ],
   "videasy": [
-    "https://api.videasy.to/cdn/sources-with-title",
-    "https://api.videasy.to/mb-flix/sources-with-title"
+    "https://api.videasy.to/cdn/sources-with-title"
   ],
   "purstream": "ch",
   "dahmermovies": [
