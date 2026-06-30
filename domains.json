@@ -3,11 +3,12 @@
     "https://kisskh.nl"
   ],
   "videasy": [
-    "https://yoru.shegu.org/",
-    "https://hls-aws.shegu.net/",
-    "https://redstar5.socialistsocieties.workers.dev/",
     "https://api.videasy.to/neon2/sources-with-title",
     "https://moontimespy.com/dash/12_24/07/13/53POZI2T/4.1131833-5/"
+  ],
+  "videasy_resolvers": [
+    "yoru.shegu.org",
+    "redstar5.socialistsocieties.workers.dev"
   ],
   "purstream": "ch",
   "dahmermovies": [
