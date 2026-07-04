@@ -3,8 +3,9 @@
     "https://kisskh.nl"
   ],
   "videasy": [
-    "https://api.videasy.to/cdn/sources-with-title",
-    "https://api.videasy.to/neon2/sources-with-title",
+    "https://api.wingsdatabase.com/cdn/sources-with-title",
+    "https://api.wingsdatabase.com/neon2/sources-with-title",
+    "https://shadowlemon.site/cdn2/",
     "https://moontimespy.com/dash/12_24/07/13/53POZI2T/4.1131833-5/"
   ],
   "purstream": "ch",
