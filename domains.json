@@ -4,6 +4,7 @@
   ],
   "videasy": [
     "https://api.videasy.to/cdn/sources-with-title",
+    "https://moon.ironwallnet.net/r2/cdn2/",
     "https://api.videasy.to/neon2/sources-with-title"
   ],
   "purstream": "ch",
